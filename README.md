@@ -9,3 +9,8 @@ focusing on the following five major franchises: Super Mario, Pokemon, Fire Embl
 and The Legend of Zelda. We hypothesize that The Legend of Zelda will emerge
 as the top franchise based on our criteria, with the Nintendo Switch being the best performing platform. 
 </code></pre>
+
+
+
+https://github.com/user-attachments/assets/8ba59a56-a54c-485a-a6b2-2083032858e1
+
